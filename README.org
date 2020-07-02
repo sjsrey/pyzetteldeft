@@ -1,0 +1,6 @@
+#+TITLE: pyzetteldeft
+
+A Python module to work with [[https://zettelkasten.de/][Zettelkastens]] implemented  with [[https://github.com/EFLS/zetteldeft][zetteldeft.]]
+
+** Status
+This is a work in progress that is working with my own Zettelkasten.
